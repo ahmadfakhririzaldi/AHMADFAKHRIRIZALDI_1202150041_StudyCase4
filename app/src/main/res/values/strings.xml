@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AHMADFAKHRIRIZALDI_1202150041_Studycase4</string>
+    <string-array name="mahasiswa">
+        <item>Dilan</item>
+        <item>Milea</item>
+        <item>Beni</item>
+        <item>Wati</item>
+        <item>Rani</item>
+        <item>Bi Eem</item>
+        <item>Nandan</item>
+        <item>Susiana</item>
+        <item>Akew</item>
+        <item>Kang Adi</item>
+        <item>Bunda</item>
+        <item>Windi</item>
+        <item>Pak Suripto</item>
+        <item>Ayah</item>
+        <item>Yadi</item>
+        <item>Dhana</item>
+        <item>Rio</item>
+        <item>Qibthiyyah</item>
+        <item>Mariyatul</item>
+        <item>Rizal</item>
+    </string-array>
+</resources>
